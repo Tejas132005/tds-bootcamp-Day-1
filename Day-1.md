@@ -32,4 +32,64 @@ The setup instructions were clear and easy to follow. A short troubleshooting gu
 ---
 
 ---
+
+## Notes for Future Reference
+
+### Basic Navigation
+pwd             # Show current directory
+ls              # List files and folders
+ls -la          # List all files including hidden files
+cd ~            # Go to home directory
+cd ..           # Move one directory up
+cd <folder>     # Enter a folder
+
+### File and Directory Operations
+mkdir myfolder  # Create a directory
+touch file.txt  # Create an empty file
+cp a.txt b.txt  # Copy a file
+mv a.txt b.txt  # Rename or move a file
+rm file.txt     # Delete a file
+rm -r folder    # Delete a directory
+
+### Viewing File Contents
+cat file.txt    # Display file contents
+head file.txt   # Show first few lines
+tail file.txt   # Show last few lines
+
+### Output Redirection
+echo "Hello" > file.txt   # Overwrite file
+echo "World" >> file.txt  # Append to file
+
+### Useful Paths
+~       -> Home directory
+.       -> Current directory
+..      -> Parent directory
+./file  -> File in current directory
+../file -> File in parent directory
+
+### Version Checks
+python --version
+git --version
+uv --version
+
+### Git Commands
+git clone <repo-url>
+git status
+git add .
+git commit -m "message"
+git push origin main
+
+### WSL Drive Locations
+cd /mnt/c   # C drive
+cd /mnt/d   # D drive
+
+### VS Code
+code .      # Open current folder in VS Code
+
+### Helpful Shortcuts
+Ctrl + C    # Stop current command
+Ctrl + L    # Clear terminal
+Tab         # Auto-complete names
+↑ / ↓       # Command history
+
 ---
