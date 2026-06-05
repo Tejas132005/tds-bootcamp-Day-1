@@ -1,9 +1,9 @@
 ---
 ---
 
---- Before Day-1 ---
-I already knew basic Python programming, Git fundamentals, and how to use VS Code. 
-I had some experience with Linux commands such as cd, ls, mkdir, and file navigation.
+--- Before Day-1 ---  
+I already knew basic Python programming, Git fundamentals, and how to use VS Code.   
+I had some experience with Linux commands such as cd, ls, mkdir, and file navigation.  
 
 --- 
 
@@ -20,14 +20,14 @@ I had some experience with Linux commands such as cd, ls, mkdir, and file naviga
 - [ ] I understand the difference between `>` (overwrite) and `>>` (append)
 - [ ] I have a GitHub account and have created the `tds-bootcamp` repository
 
---- After Day-1 ---
-I learned how WSL integrates Linux with Windows, how to use the `uv` package manager, and how GitHub repositories are used throughout the bootcamp. 
-I also became more comfortable navigating the Linux filesystem and using terminal commands for file management.
+--- After Day-1 ---  
+I learned how WSL integrates Linux with Windows, how to use the `uv` package manager, and how GitHub repositories are used throughout the bootcamp.   
+I also became more comfortable navigating the Linux filesystem and using terminal commands for file management.  
 
 ---
 
---- Feedback (Suggestions for the TDS Team) ---
-The setup instructions were clear and easy to follow. A short troubleshooting guide for common WSL, Git, and VS Code issues could help beginners complete the setup faster.
+--- Feedback (Suggestions for the TDS Team) ---  
+The setup instructions were clear and easy to follow. A short troubleshooting guide for common WSL, Git, and VS Code issues could help beginners complete the setup faster.  
 
 ---
 
